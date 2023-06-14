@@ -25,4 +25,4 @@ function buscatoken(txt){
 }
 
 
-buscatoken("G4t0 M1 51 Fus");
+buscatoken("G4t0 M1 51 Fus"); //Ingresar palabra
